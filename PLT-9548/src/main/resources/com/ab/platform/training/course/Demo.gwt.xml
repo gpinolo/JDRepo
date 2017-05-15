@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='Demo'>
+ 
+	<!-- Inherit the core Web Toolkit stuff. -->
+	<inherits name='com.google.gwt.user.User' />
+
+	<!-- <inherits name='com.google.gwt.user.theme.standard.Standard' /> -->
+
+	<!-- Other module inherits -->
+	<!--
+	<inherits name="com.ab.oneleo.layout.OneLeonardoLayout" />
+	-->
+
+	<!--
+	<inherits name="org.hibernate.validator.HibernateValidator" />
+	-->
+	
+	<inherits name='com.ab.oneleo.uis.gwt.UisCommonGWTLayout' />
+	<inherits name='com.ab.oneleo.uis.gwt.UisCommonGWTApiClient' />
+	<inherits name='com.ab.oneleo.uis.gwt.UisCommonGwtApiShared' />
+	<inherits name='com.ab.oneleo.uis.gwt.UisCommonGWTSupersource' />
+	
+	<!--
+	<replace-with
+		class="com.ab.oneleo.supplierdatamanagement.uis.client.ui.validator.SupplierDataManagementGwtValidatorFactory">
+		<when-type-is class="javax.validation.ValidatorFactory" />
+	</replace-with>
+	-->
+
+	<!-- Specify the app entry point class. -->
+	<entry-point class='com.ab.platform.training.course.client.Demo' />
+
+ 	<!-- Specify the paths for translatable code -->
+	<source path='client' />
+	<source path='shared' />
+	<source path='print' />
+
+	<source path='resources' />
+	<public path="resources">
+		<exclude name="** /*.java" />
+		<exclude name="** /*.class" />
+	</public>
+
+</module>
+

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ab.ah.scad.acl:acl-api:4.9-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ab/ah/scad/acl/acl-api/4.9-SNAPSHOT/acl-api-4.9-20170504.144553-6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ab/ah/scad/acl/acl-api/4.9-SNAPSHOT/acl-api-4.9-20170504.144553-6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ab/ah/scad/acl/acl-api/4.9-SNAPSHOT/acl-api-4.9-20170504.144553-6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

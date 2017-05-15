@@ -1,0 +1,308 @@
+/* Bootstrap Override */
+label {
+	padding-top: 5px;
+	
+	height: 11px;
+	
+	font-size: 11px;
+	line-height: 11px;	
+}
+
+.controls-row label {
+}
+
+textarea, 
+input[type="text"], 
+input[type="password"], 
+input[type="datetime"], 
+input[type="datetime-local"], 
+input[type="date"], 
+input[type="month"], 
+input[type="time"], 
+input[type="week"], 
+input[type="number"], 
+input[type="email"], 
+input[type="url"], 
+input[type="search"], 
+input[type="tel"], 
+input[type="color"], 
+.uneditable-input,
+.input-append .add-on, 
+.input-prepend .add-on {
+	margin: 0;
+	
+	-webkit-border-radius: 	0;
+	-moz-border-radius: 	0;
+	border-radius: 			0;
+	border: 1px solid #555;
+	
+	padding: 0;
+	
+	width: 100%;
+	
+	-webkit-transition: none;
+	-moz-transition:none;
+	-o-transition:none;
+	transition:none;
+	
+	font-size: 12px;
+}
+	
+	.control-group input[type="text"], 
+	.control-group input[type="password"] {
+	}
+	
+		.control-group input[type="text"].input-xlarge, 
+		.control-group input[type="password"].input-xlarge {
+		}
+	
+	.control-group.error .controls label, 
+	.control-group.error .controls .help-block, 
+	.control-group.error .controls .help-inline {
+		color: red;
+	}
+	
+	.control-group.error .controls.not-validated label {
+	}
+	
+		.control-group.error .marker {
+		}
+		
+		.control-group.error .help-inline {
+		}
+
+	.control-group.error .not-validated input {
+	}
+	
+		.control-group .help-inline {
+			padding: 0;
+		}
+		
+		.control-group.error .help-inline {
+		}
+
+.alert {
+	margin: 8px;
+}
+
+	.alert-error {
+		border: 1px solid #C43D3D;
+		padding: 16px 50px;
+		
+		background: url("../images/error_button.png") no-repeat scroll 10px center #ED9B9B;
+		
+		color: #222;
+	}
+
+.modal {
+}
+	
+	.modal-header {
+	  }
+	
+	  .modal-header h3 {
+	  }
+	
+		.modal-header .close {
+		}
+		
+		.modal-body {
+		}
+		
+		.modal-footer {
+		}
+		
+/*Border form*/
+
+.well {border-radius: 4px;
+		-moz-border-radius: 4px;
+		-webkit-border-radius: 4px;
+		-khtml-border-radius: 4px;
+		behavior: url(./OneLeonardoDesktop/pie/PIE.htc);}
+		
+/* Buttons */
+
+	.gwt-Button,
+	.btn,
+	.btn:link,
+	.btn:visited,
+	button.btn,
+	input.btn,
+	input.btn[type="submit"] {
+		border: 1px solid #267399;
+		border-radius: 4px;
+		-moz-border-radius: 4px;
+		-webkit-border-radius: 4px;
+		-khtml-border-radius: 4px;
+		padding: 0 6px;
+		min-width: 0;
+		height: 20px;
+		
+		font-size: 11px;
+		line-height: 20px;
+		text-decoration: none;
+		text-shadow: none;
+		color: #FFF;
+		
+		background-image: -moz-linear-gradient(center top, #78B1ED, #417BB5 100%);
+		background-image: -webkit-linear-gradient(center top, #78B1ED, #417BB5 100%);
+		background-image: -o-linear-gradient(center top, #78B1ED, #417BB5 100%);
+		background-image: -ms-linear-gradient(center top, #78B1ED, #417BB5 100%);
+		background-image: linear-gradient(center top, #78B1ED, #417BB5 100%);
+		-pie-background: linear-gradient(to bottom, #78B1ED, #417BB5 100%); /*ie 6-9 via PIE*/
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#78B1ED', endColorstr='#417BB5', GradientType=0);
+		
+		box-shadow: 		0 1px 3px rgba(0, 0, 0, 0.5), 0 0 1px #6CB5D9 inset;
+		-moz-box-shadow: 	0 1px 3px rgba(0, 0, 0, 0.5), 0 0 1px #6CB5D9 inset;
+		-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5), 0 0 1px #6CB5D9 inset;
+		
+		-moz-box-sizing: padding-box; 
+		-webkit-box-sizing: padding-box; 
+		box-sizing: padding-box;
+
+		text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.1);
+		
+		behavior: url(./OneLeonardoDesktop/pie/PIE.htc);
+	}
+	
+	.btn:hover,
+	.btn:active,
+	.btn:focus,
+	.btn.active,
+	button.btn:hover,
+	input.btn:hover,
+	input.btn:hover[type="submit"],
+	button.btn:active,
+	input.btn:active,
+	input.btn:active[type="submit"],
+	button.btn.active,
+	input.btn.active,
+	input.btn.active[type="submit"] {
+		color: #FFF;
+	
+		background-position: 0;
+	
+		background-image: -moz-linear-gradient(center top, #78B1ED, #417BB5 100%);
+		background-image: -webkit-linear-gradient(center top, #78B1ED, #417BB5 100%);
+		background-image: -o-linear-gradient(center top, #78B1ED, #417BB5 100%);
+		background-image: -ms-linear-gradient(center top, #78B1ED, #417BB5 100%);
+		background-image: linear-gradient(center top, #78B1ED, #417BB5 100%);
+		-pie-background: linear-gradient(to bottom, #78B1ED, #417BB5 100%); /*ie 6-9 via PIE*/
+		
+		behavior: url(./OneLeonardoDesktop/pie/PIE.htc);		
+	}
+
+/* Utils */
+.no-margin {
+	margin: 0;
+}
+
+/* Login Module */
+body {
+	background: url("../images/login_background.png") no-repeat 0 0 #DFE4FF;
+	
+    font-family: verdana;
+    font-size: 11px;
+    color: #58646D;
+}
+	.loginPage {
+	}
+
+header {
+	height: 115px;
+	padding: 24px;
+	
+	background: url("../images/header.png") no-repeat 50% 0 transparent;
+}
+
+	header .header_logo {
+		margin: 0 auto;
+		width: 200px;
+		height: 93px;
+		
+		background: url("../images/logo_header_login.png") no-repeat 50% 0 transparent;
+	}
+
+	#loginHeader {
+	}
+	
+		.loginHeaderText {
+		}
+
+.error-row .alert-error {
+}
+	.box {
+		position: relative;
+		
+		margin: 17px auto;
+		
+		width: 400px;
+	}
+	
+		.box .shadow {
+		    position: absolute;
+		    bottom: -15px;
+		    
+			width: 100%;
+			height: 18px;
+			
+			background: url("../images/box-shadow.png") no-repeat scroll 50% 0 transparent;
+		}
+	
+		.loginFormWell {
+			margin-bottom: 4px;
+			border: none;
+			padding: 5px 5px 5px 24px;
+			height: 15px;
+			min-height: 11px;
+			
+			background: url("../images/lock.png") no-repeat scroll 5px center #518AC5;
+			
+			font-size: 13px;
+			font-weight: 700;
+			line-height: 15px;
+			color: #FFF;
+		}
+
+	.loginForm {
+		border: 1px solid #5F9FBF;
+		padding: 5px 30px;
+	
+		background-color: #FFF;
+		background-image: -moz-linear-gradient(center bottom, #ffffff 25%, #d0dbff 100%);
+		background-image: -webkit-linear-gradient(center bottom, #ffffff 25%, #d0dbff 100%);
+		background-image: -o-linear-gradient(center bottom, #ffffff 25%, #d0dbff 100%);
+		background-image: -ms-linear-gradient(center bottom, #ffffff 25%, #d0dbff 100%);
+		background-image: linear-gradient(center bottom, #ffffff 25%, #d0dbff 100%);
+		-pie-background:  linear-gradient(to top, #ffffff 25%, #d0dbff 100%); /*ie 6-9 via PIE*/
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#d0dbff', GradientType=0);
+	}
+	
+		.loginForm button {
+			width: 100px;
+		}
+		
+		.loginForm .fields {
+		}
+
+footer {
+}
+
+	footer .footer_logo {
+    	margin: 0 auto;
+    	padding-top: 4px;
+	
+		width: 400px;
+		height: 50px;
+		
+		background: url("../images/logo_login.png") no-repeat scroll center center transparent;
+	}
+	
+	.footer {
+	}
+	
+.control-group.custom-form {
+}
+
+.control-group.custom-button {
+}
