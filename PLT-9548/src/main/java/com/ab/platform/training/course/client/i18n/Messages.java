@@ -14,4 +14,8 @@ public interface Messages extends com.google.gwt.i18n.client.Messages {
   @DefaultMessage("addAddressButton")
   @Key("addAddressButton")
   String supplier_contactinfo_address_addaddressbutton();
+
+  @DefaultMessage("Do Something")
+  @Key("dosomething")
+  String dosomething();
 }

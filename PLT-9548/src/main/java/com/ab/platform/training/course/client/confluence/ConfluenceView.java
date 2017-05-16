@@ -3,6 +3,8 @@ package com.ab.platform.training.course.client.confluence;
 import com.ab.oneleo.uis.gwt.client.core.AbstractView;
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.uibinder.client.UiBinder;
+import com.google.gwt.uibinder.client.UiField;
+import com.google.gwt.user.client.ui.HTMLPanel;
 import com.google.gwt.user.client.ui.Widget;
 
 /**
@@ -15,6 +17,8 @@ public class ConfluenceView extends AbstractView<ConfluencePresenter, Confluence
   interface DefaultViewUiBinder extends UiBinder<Widget, ConfluenceView> {
   }
 
+  @UiField
+  HTMLPanel panel;
 
   public ConfluenceView() {
     initWidget(uiBinder.createAndBindUi(this));

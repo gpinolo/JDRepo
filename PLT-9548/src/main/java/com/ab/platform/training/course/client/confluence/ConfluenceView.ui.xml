@@ -3,7 +3,7 @@
 
     <ui:with field='confluenceMessages' type='com.ab.platform.training.course.client.i18n.Messages' />
 
-    <g:HTMLPanel>
+    <g:HTMLPanel ui:field="panel">
 
         <g:Controls>
             <g:Button size="LARGE" ui:field="addContact"  text="{confluenceMessages.supplier_contactinfo_address_addaddressbutton}" />

@@ -4,14 +4,28 @@
 
     <inherits name='com.google.gwt.user.User'/>
 
-    <entry-point class='com.ab.platform.training.course.client.confluence.ConfluenceModule'/>
+    <inherits name='com.ab.oneleo.uis.gwt.UisCommonGWTLayout' />
+    <inherits name='com.ab.oneleo.uis.gwt.UisCommonGWTApiClient' />
+    <inherits name='com.ab.oneleo.uis.gwt.UisCommonGwtApiShared' />
+    <inherits name='com.ab.oneleo.uis.gwt.UisCommonGWTSupersource' />
 
-    <!--<inherits name='com.ab.platform.training.course.Demo'/>
+    <inherits name='com.google.gwt.junit.JUnit' />
+
+
+    <!-- Logging configuration -->
+    <inherits name="com.google.gwt.logging.Logging" />
+    <set-property name="gwt.logging.simpleRemoteHandler" value="ENABLED" />
 
     <entry-point class='com.ab.platform.training.course.client.confluence.ConfluenceEntryPoint'/>
 
-    <replace-with class="com.ab.platform.training.course.client.confluence.ConfluenceView">
-        <when-type-is class="com.ab.platform.training.course.client.ui.sample.SampleView" />
-    </replace-with>-->
+    <!-- Specify the paths for translatable code -->
+    <source path='client' />
+    <source path='shared' />
+    <source path='print' />
 
+    <source path='resources' />
+    <public path="resources">
+        <exclude name="** /*.java" />
+        <exclude name="** /*.class" />
+    </public>
 </module>
