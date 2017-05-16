@@ -1,0 +1,13 @@
+<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+             xmlns:g='urn:import:com.google.gwt.user.client.ui'>
+
+    <ui:with field='confluenceMessages' type='com.ab.platform.training.course.client.i18n.Messages' />
+
+    <g:HTMLPanel>
+
+        <g:Controls>
+            <g:Button size="LARGE" ui:field="addContact"  text="{confluenceMessages.supplier_contactinfo_address_addaddressbutton}" />
+        </g:Controls>
+
+    </g:HTMLPanel>
+</ui:UiBinder>

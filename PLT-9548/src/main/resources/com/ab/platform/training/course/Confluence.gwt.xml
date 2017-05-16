@@ -1,0 +1,17 @@
+<!DOCTYPE module PUBLIC "-//Google Inc.//DTD Google Web Toolkit 2.0//EN"
+        "http://google-web-toolkit.googlecode.com/svn/releases/2.0/distro-source/core/src/gwt-module.dtd">
+<module>
+
+    <inherits name='com.google.gwt.user.User'/>
+
+    <entry-point class='com.ab.platform.training.course.client.confluence.ConfluenceModule'/>
+
+    <!--<inherits name='com.ab.platform.training.course.Demo'/>
+
+    <entry-point class='com.ab.platform.training.course.client.confluence.ConfluenceEntryPoint'/>
+
+    <replace-with class="com.ab.platform.training.course.client.confluence.ConfluenceView">
+        <when-type-is class="com.ab.platform.training.course.client.ui.sample.SampleView" />
+    </replace-with>-->
+
+</module>

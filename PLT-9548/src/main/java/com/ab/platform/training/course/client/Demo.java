@@ -16,6 +16,7 @@ import com.ab.platform.training.course.client.ui.sample.SamplePlace;
 import com.ab.oneleo.uis.gwt.client.mvp.DefaultRunAsyncCallback;
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.user.client.ui.RootPanel;
+import com.google.gwt.user.client.ui.Widget;
 
 /**
  * Entry point classes define <code>onModuleLoad()</code>.
@@ -25,7 +26,7 @@ public class Demo implements EntryPoint {
 	public void onModuleLoad() {
 
 		ModuleUtils.initModule(newActivityMapper(), newViewFactory());
-    RootPanel.get().add(new SampleView());
+    RootPanel.get().add((Widget) GWT.create(SampleView.class));
 	}
 
 	private ViewAsyncFactory newViewFactory() {
