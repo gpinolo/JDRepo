@@ -28,5 +28,6 @@
 	</bean>
 
 	-->
+    <bean id="doSomething" class="com.ab.platform.training.course.client.server.DoSomethingServiceClientImpl"/>
 
 </beans>

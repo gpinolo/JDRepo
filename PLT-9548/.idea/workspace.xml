@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65b94dce-1f53-47af-be19-9f64d917c3e3" name="Default" comment="" />
+    <list default="true" id="65b94dce-1f53-47af-be19-9f64d917c3e3" name="Default" comment="fase mistica">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/DoSomethingServiceClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/DoSomethingServiceClientAsync.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/server/DoSomethingServiceClientImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SampleView.java" afterPath="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SampleView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/spring/Demo-endpoints.xml" afterPath="$PROJECT_DIR$/src/main/resources/spring/Demo-endpoints.xml" />
+    </list>
+    <list id="9197e144-de88-46b1-8927-b2a000dae02c" name="intellijFiles" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="PLT-9548.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,96 +33,17 @@
     <favorites_list name="PLT-9548" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1274#1615#0" expanded="true" />
-                <element signature="e#1614#1615#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DemoDev.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/DemoDev.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SampleView.ui.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SampleView.ui.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.576923">
-              <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SampleView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SampleView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo.gwt.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/com/ab/platform/training/course/Demo.gwt.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.615385">
-              <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Messages.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/i18n/Messages.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Messages.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/com/ab/platform/training/course/client/i18n/Messages.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SampleActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SampleActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13333334">
-              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -123,16 +54,47 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/webapp/Demo.html" />
-        <option value="$PROJECT_DIR$/src/main/resources/com/ab/platform/training/course/Demo.gwt.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/com/ab/platform/training/course/DemoDev.gwt.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Demo-spring-context.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/i18n/Messages.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SampleView.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/Demo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SampleView.ui.xml" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/ab/platform/training/course/Demo.gwt.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/confluence/Confluence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/confluence/ConfluenceModule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/confluence/SampleActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/confluence/SamplePlace.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/confluence/ConfluencePlace.java" />
         <option value="$PROJECT_DIR$/src/main/resources/com/ab/platform/training/course/client/i18n/Messages.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/confluence/ConfluencePresenter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/confluence/ConfluenceActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/ab/platform/training/course/Example.gwt.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SampleActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/confluence/ConfluenceEntryPoint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/demo1/client/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/demo1/client/ViewAsyncFactoryimpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/demo1/client/ActivityMapperWithClientFactoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/demo1/client/InterModuleComunication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/demo1/client/ui/mainactivity/MainActivityViewPresenter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/demo1/client/DemoDesktop.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/demo1/Demo1.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/Demo1.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/confluence/ConfluenceView.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/ab/platform/training/course/Confluence.gwt.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/i18n/Messages.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/TestServiceAsync.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/server/TestServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/TestService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/server/DoSomethingClientServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/DoSomethingClientService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/DoSomethingServiceClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/DoSomethingServiceClientAsync.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/server/DoSomethingServiceClientImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SampleView.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/Demo-endpoints.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SampleView.ui.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/confluence/ConfluenceView.ui.xml" />
       </list>
     </option>
   </component>
@@ -159,12 +121,12 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1358" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -190,6 +152,8 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -208,253 +172,44 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PLT-9548" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PLT-9548" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PLT-9548" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PLT-9548" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PLT-9548" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PLT-9548" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PLT-9548" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PLT-9548" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PLT-9548" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PLT-9548" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="META-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PLT-9548" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PLT-9548" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PLT-9548" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PLT-9548" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="i18n" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PLT-9548" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PLT-9548" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PLT-9548" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PLT-9548" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../patientdatamanagement" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.16390584" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.idea/workspace.xml" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\JDRepo\PLT-9548\src\main\java\com\ab\platform\training\course\client" />
+      <recent name="C:\dev\JDRepo\PLT-9548\src\main\java\com\ab\platform\training\demo1\client\ui" />
+      <recent name="C:\dev\JDRepo\PLT-9548\src\main\webapp\demo1" />
+      <recent name="C:\dev\JDRepo\PLT-9548" />
       <recent name="C:\dev\PLT-9548\src\main\webapp" />
-      <recent name="C:\dev\PLT-9548\src\main\resources\META-INF" />
+    </key>
+    <key name="GwtCreateUiBinderDialog.RecentRootElementType">
+      <recent name="com.google.gwt.user.client.ui.HTMLPanel" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ab.platform.training.course.client.server" />
+      <recent name="com.ab.platform.training.demo1.client" />
+      <recent name="com.ab.platform.training.course.client.confluence" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\JDRepo\PLT-9548\src\main\resources\com\ab\platform\training\course" />
+      <recent name="C:\dev\JDRepo\PLT-9548\src\main\webapp" />
+      <recent name="C:\dev\JDRepo\PLT-9548\src\main\java\com\ab\platform\training\course\client\confluence" />
     </key>
   </component>
-  <component name="RunManager" selected="GWT Configuration.Demo">
+  <component name="RunManager" selected="GWT Configuration.Demo1">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -900,14 +655,38 @@
       <option name="BROWSER" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
       <method />
     </configuration>
-    <list size="1">
+    <configuration default="false" name="Demo1" type="GWT.ConfigurationType" factoryName="GWT Configuration">
+      <module name="PLT-9548" />
+      <option name="VM_PARAMETERS" value="-Xms2048m -Xmx2048m -XX:MaxPermSize=256m -DpropertiesPath=C:\Users\gdecesare\maven.props -Dspring.profiles.active=dev -Dgwt.bindAddress=0.0.0.0 -Duser.timezone=UTC -Dgwt.nowarn.webapp.classpath" />
+      <option name="SHELL_PARAMETERS" value="-port 8889" />
+      <option name="RUN_PAGE" value="Demo1.html" />
+      <option name="GWT_MODULE" value="com.ab.platform.training.demo1.Demo1" />
+      <option name="BROWSER" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Confluence" type="GWT.ConfigurationType" factoryName="GWT Configuration">
+      <module name="PLT-9548" />
+      <option name="VM_PARAMETERS" value="-Xms2048m -Xmx2048m -XX:MaxPermSize=256m -DpropertiesPath=C:\Users\gdecesare\maven.props -Dspring.profiles.active=dev -Dgwt.bindAddress=0.0.0.0 -Duser.timezone=UTC -Dgwt.nowarn.webapp.classpath" />
+      <option name="SHELL_PARAMETERS" value="-port 8889" />
+      <option name="RUN_PAGE" value="Confluence.html" />
+      <option name="GWT_MODULE" value="com.ab.platform.training.course.Confluence" />
+      <option name="BROWSER" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <method />
+    </configuration>
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="GWT Configuration.Demo" />
+      <item index="1" class="java.lang.String" itemvalue="GWT Configuration.Demo1" />
+      <item index="2" class="java.lang.String" itemvalue="GWT Configuration.Confluence" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\gdecesare\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="65b94dce-1f53-47af-be19-9f64d917c3e3" name="Default" comment="" />
+      <changelist id="9197e144-de88-46b1-8927-b2a000dae02c" name="intellijFiles" comment="" />
       <created>1494584129453</created>
       <option name="number" value="Default" />
       <updated>1494584129453</updated>
@@ -916,95 +695,182 @@
       <workItem from="1494594304123" duration="9510000" />
       <workItem from="1494842938041" duration="8108000" />
       <workItem from="1494858581146" duration="4470000" />
+      <workItem from="1494864350639" duration="65000" />
+      <workItem from="1494919066554" duration="20857000" />
+      <workItem from="1494944106370" duration="2958000" />
+      <workItem from="1494947201858" duration="3051000" />
+      <workItem from="1495005290374" duration="8420000" />
+      <workItem from="1495103264886" duration="164000" />
+      <workItem from="1498471324637" duration="2922000" />
+      <workItem from="1498485065440" duration="1597000" />
+      <workItem from="1498489689937" duration="1538000" />
+      <workItem from="1502271438737" duration="1100000" />
     </task>
+    <task id="LOCAL-00001" summary="ignored files">
+      <created>1494919202767</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1494919202767</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ignored files">
+      <created>1494919427835</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1494919427835</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ignored files">
+      <created>1494920149006</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1494920149006</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first demo">
+      <created>1494938175802</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1494938175802</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fase mistica">
+      <created>1494946724908</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1494946724908</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27947000" />
+    <option name="totallyTimeSpent" value="70619000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.58678955" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5233645" sideWeight="0.5063966" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23827292" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17964694" sideWeight="0.4936034" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.4968017" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.74961597" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33812407" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6513057" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23614073" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24054463" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44132918" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6543779" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5867082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5422427" sideWeight="0.4936034" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54070663" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.74961597" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33812407" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997923" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50537634" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.58678955" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5867082" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.4968017" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48701972" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48694316" sideWeight="0.4978678" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5422427" sideWeight="0.4936034" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3432836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37897125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54070663" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
+  <component name="Vcs.Log.Settings">
+    <option name="SHOW_BRANCHES_PANEL" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ignored files" />
+    <MESSAGE value="first demo" />
+    <MESSAGE value="fase mistica" />
+    <option name="LAST_COMMIT_MESSAGE" value="fase mistica" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SampleView.java</url>
-          <line>20</line>
           <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/Demo.java</url>
-          <line>26</line>
+          <line>37</line>
           <properties />
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/Demo.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/demo1/client/DemoDesktop.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SampleView.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/server/DoSomethingServiceClientImpl.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SampleView.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1013,600 +879,353 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.2.16.RELEASE/spring-web-3.2.16.RELEASE.jar!/org/springframework/web/filter/DelegatingFilterProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/Demo-endpoints.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SampleActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SamplePlace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/gwt-2.7.0/gwt-user.jar!/com/google/gwt/place/shared/Place.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1274#1615#0" expanded="true" />
-            <element signature="e#1614#1615#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/Demo-endpoints.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SampleActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SamplePlace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/gwt-2.7.0/gwt-user.jar!/com/google/gwt/place/shared/Place.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1274#1615#0" expanded="true" />
-            <element signature="e#1614#1615#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/ab/oneleo/uiscommon/uiscommon-gwt-api-client/2.0.0/uiscommon-gwt-api-client-2.0.0-sources.jar!/com/ab/oneleo/uis/gwt/client/UisCommonGWTApiClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/ab/oneleo/uiscommon/uiscommon-gwt-api-client/2.0.0/uiscommon-gwt-api-client-2.0.0.jar!/com/ab/oneleo/uis/gwt/client/UisCommonGWTApiClient.class">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/gwt-2.7.0/gwt-user.jar!/com/google/gwt/place/shared/Place.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28997868">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/ab/oneleo/uiscommon/uiscommon-gwt-api-client/2.0.0/uiscommon-gwt-api-client-2.0.0-sources.jar!/com/ab/oneleo/uis/gwt/UisCommonGWTApiClient.gwt.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/com/ab/oneleo/uiscommon/uiscommon-gwt-api-client/2.0.0/uiscommon-gwt-api-client-2.0.0.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5756208">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/com/google/gwt/eventbinder/eventbinder/1.0.0/eventbinder-1.0.0.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.123903506">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/gwt-2.7.0/gwt-user.jar!/com/google/gwt/core/client/EntryPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12686567">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/ab/oneleo/uiscommon/uiscommon-gwt-api-client/2.5-SNAPSHOT/uiscommon-gwt-api-client-2.5-20170505.092042-15-sources.jar!/com/ab/oneleo/uis/gwt/UisCommonGWTApiClient.gwt.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20504385">
-          <caret line="44" column="43" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/ab/oneleo/uiscommon/uiscommon-gwt-layout/2.5-SNAPSHOT/uiscommon-gwt-layout-2.5-20170505.092112-15-sources.jar!/com/ab/oneleo/uis/gwt/UisCommonGWTLayout.gwt.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/com/ab/platform/training/course/DemoDev.gwt.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1491228">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SamplePlace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07249467">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-core/2.7.3/cxf-rt-core-2.7.3.jar!/META-INF/cxf/cxf.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/ab/oneleo/uiscommon/uiscommon-gwt-api-server/2.0.0/uiscommon-gwt-api-server-2.0.0.jar!/spring/single-module-security.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614">
-          <caret line="7" column="74" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/ab/oneleo/uiscommon/uiscommon-gwt-api-server/2.5-SNAPSHOT/uiscommon-gwt-api-server-2.5-20170505.092130-13-sources.jar!/spring/single-module-security.xml">
+    <entry file="file://$PROJECT_DIR$/.idea/copyright/profiles_settings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-ldap/3.2.9.RELEASE/spring-security-ldap-3.2.9.RELEASE.pom">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/gwt/gwt-user/2.5.1/gwt-user-2.5.1-sources.jar!/com/google/gwt/user/client/ui/impl/PopupImplIE6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52859616">
-          <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.2982456">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://MAVEN/com.ab.platform.training.course:PLT-9548:1.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.ab.platform.training.course:PLT-9548:1.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="" y="">com.ab.platform.training.course:PLT-9548:1.0-SNAPSHOT</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-wfe:jar:4.9-20170504.144712-6</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-wfe:jar:4.9-20170504.144712-6/com.ab.ah.scad.acl:acl-wfe-persistence:jar:4.9-20170504.144701-6</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-wfe:jar:4.9-20170504.144712-6/com.ab.ah.scad.acl:acl-caf:jar:4.9-20170504.144642-6</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-wfe:jar:4.9-20170504.144712-6/com.ab.ah.scad.acl:acl-bre:jar:4.9-20170504.144651-6</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-data-access:jar:4.9-20170504.144833-6</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-data-access:jar:4.9-20170504.144833-6/com.ab.ah.scad.acl:acl-multitenancy:jar:4.9-20170504.144811-6</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-data-access:jar:4.9-20170504.144833-6/com.ab.ah.scad.acl:acl-multitenancy:jar:4.9-20170504.144811-6/commons-io:commons-io:jar:2.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-data-access:jar:4.9-20170504.144833-6/org.apache.commons:com.springsource.org.apache.commons.logging:jar:1.1.1</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-data-access:jar:4.9-20170504.144833-6/org.mybatis:mybatis:jar:3.2.3</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-data-access:jar:4.9-20170504.144833-6/org.mybatis:mybatis-spring:jar:1.2.2</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-metadata:jar:4.9-20170504.144756-6</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-metadata:jar:4.9-20170504.144756-6/com.ab.ah.scad.dependency:dependency-hibernate5:pom:2.6.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-metadata:jar:4.9-20170504.144756-6/com.ab.ah.scad.dependency:dependency-hibernate5:pom:2.6.0/org.hibernate:hibernate-entitymanager:jar:5.0.7.Final</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-metadata:jar:4.9-20170504.144756-6/com.ab.ah.scad.dependency:dependency-hibernate5:pom:2.6.0/org.hibernate:hibernate-entitymanager:jar:5.0.7.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-metadata:jar:4.9-20170504.144756-6/com.ab.ah.scad.dependency:dependency-hibernate5:pom:2.6.0/org.hibernate:hibernate-entitymanager:jar:5.0.7.Final/org.hibernate:hibernate-core:jar:5.0.7.Final</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-metadata:jar:4.9-20170504.144756-6/com.ab.ah.scad.dependency:dependency-hibernate5:pom:2.6.0/org.hibernate:hibernate-entitymanager:jar:5.0.7.Final/org.hibernate:hibernate-core:jar:5.0.7.Final/antlr:antlr:jar:2.7.7</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-metadata:jar:4.9-20170504.144756-6/com.ab.ah.scad.dependency:dependency-hibernate5:pom:2.6.0/org.hibernate:hibernate-entitymanager:jar:5.0.7.Final/org.hibernate:hibernate-core:jar:5.0.7.Final/org.jboss:jandex:jar:2.0.0.Final</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-metadata:jar:4.9-20170504.144756-6/com.ab.ah.scad.dependency:dependency-hibernate5:pom:2.6.0/org.hibernate:hibernate-entitymanager:jar:5.0.7.Final/dom4j:dom4j:jar:1.6.1</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-metadata:jar:4.9-20170504.144756-6/com.ab.ah.scad.dependency:dependency-hibernate5:pom:2.6.0/org.hibernate:hibernate-entitymanager:jar:5.0.7.Final/dom4j:dom4j:jar:1.6.1/xml-apis:xml-apis:jar:1.0.b2</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-metadata:jar:4.9-20170504.144756-6/com.ab.ah.scad.dependency:dependency-hibernate5:pom:2.6.0/org.hibernate:hibernate-entitymanager:jar:5.0.7.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.0.1.Final</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-metadata:jar:4.9-20170504.144756-6/com.ab.ah.scad.dependency:dependency-hibernate5:pom:2.6.0/org.hibernate:hibernate-entitymanager:jar:5.0.7.Final/org.apache.geronimo.specs:geronimo-jta_1.1_spec:jar:1.1.1</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-metadata:jar:4.9-20170504.144756-6/com.ab.ah.scad.dependency:dependency-hibernate5:pom:2.6.0/javax.transaction:com.springsource.javax.transaction:jar:1.1.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-metadata:jar:4.9-20170504.144756-6/com.ab.ah.scad.dependency:dependency-hibernate5:pom:2.6.0/c3p0:c3p0:jar:0.9.5.2</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-metadata:jar:4.9-20170504.144756-6/com.ab.ah.scad.dependency:dependency-hibernate5:pom:2.6.0/com.mchange:mchange-commons-java:jar:0.2.11</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-metadata:jar:4.9-20170504.144756-6/org.jgrapht:jgrapht-jdk1.5:jar:0.7.3</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-caf-security:jar:4.9-20170504.144628-6</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-caf-persistence:jar:4.9-20170504.144617-6</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-validation:jar:4.9-20170504.144843-6</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-notification:jar:4.9-20170504.144854-6</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-notification:jar:4.9-20170504.144854-6/org.igniterealtime.smack:smack:jar:3.2.1</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-notification:jar:4.9-20170504.144854-6/org.igniterealtime.smack:smackx:jar:3.2.1</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-notification:jar:4.9-20170504.144854-6/net.sf.flexjson:flexjson:jar:2.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.apache.activemq:activemq-core:jar:5.7.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.apache.activemq:activemq-core:jar:5.7.0/org.apache.geronimo.specs:geronimo-jms_1.1_spec:jar:1.1.1</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.apache.activemq:activemq-core:jar:5.7.0/org.apache.activemq:kahadb:jar:5.7.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.apache.activemq:activemq-core:jar:5.7.0/org.apache.activemq.protobuf:activemq-protobuf:jar:1.1</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.apache.activemq:activemq-core:jar:5.7.0/org.fusesource.mqtt-client:mqtt-client:jar:1.3</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.apache.activemq:activemq-core:jar:5.7.0/org.fusesource.mqtt-client:mqtt-client:jar:1.3/org.fusesource.hawtdispatch:hawtdispatch-transport:jar:1.11</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.apache.activemq:activemq-core:jar:5.7.0/org.fusesource.mqtt-client:mqtt-client:jar:1.3/org.fusesource.hawtdispatch:hawtdispatch-transport:jar:1.11/org.fusesource.hawtdispatch:hawtdispatch:jar:1.11</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.apache.activemq:activemq-core:jar:5.7.0/org.fusesource.mqtt-client:mqtt-client:jar:1.3/org.fusesource.hawtbuf:hawtbuf:jar:1.9</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.apache.activemq:activemq-core:jar:5.7.0/org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec:jar:1.0.1</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.apache.activemq:activemq-core:jar:5.7.0/commons-net:commons-net:jar:3.1</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.apache.activemq:activemq-core:jar:5.7.0/org.jasypt:jasypt:jar:1.9.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.springframework.integration:spring-integration-xml:jar:2.2.1.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.springframework.integration:spring-integration-xml:jar:2.2.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.springframework.integration:spring-integration-xml:jar:2.2.1.RELEASE/org.springframework.ws:spring-xml:jar:2.1.1.RELEASE/javax.xml.stream:stax-api:jar:1.0-2</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.springframework.integration:spring-integration-xml:jar:2.2.1.RELEASE/org.springframework.integration:spring-integration-core:jar:2.2.1.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.springframework.integration:spring-integration-xml:jar:2.2.1.RELEASE/org.springframework.integration:spring-integration-core:jar:2.2.1.RELEASE/org.springframework.retry:spring-retry:jar:1.0.2.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.springframework.integration:spring-integration-ws:jar:2.2.1.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.springframework.integration:spring-integration-ws:jar:2.2.1.RELEASE/org.springframework.ws:spring-ws-core:jar:2.1.1.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.springframework.integration:spring-integration-http:jar:2.2.1.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.springframework.integration:spring-integration-jms:jar:2.2.1.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.springframework.integration:spring-integration-stream:jar:2.2.1.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.springframework.integration:spring-integration-mail:jar:2.2.1.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.springframework.integration:spring-integration-jmx:jar:2.2.1.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.springframework.integration:spring-integration-jmx:jar:2.2.1.RELEASE/org.aspectj:aspectjweaver:jar:1.6.8</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/org.springframework.integration:spring-integration-jmx:jar:2.2.1.RELEASE/org.aspectj:aspectjrt:jar:1.6.8</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/javax.mail:mail:jar:1.4.5</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-event:jar:4.9-20170504.144918-6/com.ab.ah.scad.dependency:dependency-springintegration:pom:2.5/javax.mail:mail:jar:1.4.5/javax.activation:activation:jar:1.1</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-process-tracking:jar:4.9-20170504.144905-6</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-process-tracking:jar:4.9-20170504.144905-6/org.jvnet.jaxb2_commons:jaxb2-namespace-prefix:jar:1.1</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-dependency:pom:4.9-20170504.144932-6/com.ab.ah.scad.acl:acl-process-tracking:jar:4.9-20170504.144905-6/com.sun.xml.bind:jaxb-impl:jar:2.2.5.1</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.github.gwtbootstrap:gwt-bootstrap:jar:tsfn-patched:2.3.2.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-frontend-jaxrs:jar:2.7.3</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-frontend-jaxrs:jar:2.7.3/org.apache.cxf:cxf-api:jar:2.7.3</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-frontend-jaxrs:jar:2.7.3/org.apache.cxf:cxf-api:jar:2.7.3/org.codehaus.woodstox:woodstox-core-asl:jar:4.1.4</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-frontend-jaxrs:jar:2.7.3/org.apache.cxf:cxf-api:jar:2.7.3/org.codehaus.woodstox:woodstox-core-asl:jar:4.1.4/org.codehaus.woodstox:stax2-api:jar:3.1.1</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-frontend-jaxrs:jar:2.7.3/org.apache.cxf:cxf-api:jar:2.7.3/org.apache.ws.xmlschema:xmlschema-core:jar:2.0.3</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-frontend-jaxrs:jar:2.7.3/org.apache.cxf:cxf-api:jar:2.7.3/org.apache.geronimo.specs:geronimo-javamail_1.4_spec:jar:1.7.1</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-frontend-jaxrs:jar:2.7.3/org.apache.cxf:cxf-api:jar:2.7.3/wsdl4j:wsdl4j:jar:1.6.2</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-frontend-jaxrs:jar:2.7.3/org.apache.cxf:cxf-rt-core:jar:2.7.3</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-frontend-jaxrs:jar:2.7.3/javax.ws.rs:javax.ws.rs-api:jar:2.0-m10</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-frontend-jaxrs:jar:2.7.3/org.apache.cxf:cxf-rt-bindings-xml:jar:2.7.3</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-rs-extension-providers:jar:2.7.3</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.7.3</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.7.3/xml-resolver:xml-resolver:jar:1.2</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.7.3/org.apache.cxf:cxf-rt-frontend-simple:jar:2.7.3</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.7.3/org.apache.cxf:cxf-rt-ws-addr:jar:2.7.3</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.7.3/org.apache.cxf:cxf-rt-ws-addr:jar:2.7.3/org.apache.cxf:cxf-rt-ws-policy:jar:2.7.3</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.7.3/org.apache.cxf:cxf-rt-ws-addr:jar:2.7.3/org.apache.cxf:cxf-rt-ws-policy:jar:2.7.3/org.apache.neethi:neethi:jar:3.0.2</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-transports-http:jar:2.7.3</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-bindings-soap:jar:2.7.3</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-bindings-soap:jar:2.7.3/org.apache.cxf:cxf-rt-databinding-jaxb:jar:2.7.3</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.apache.cxf:cxf-rt-features-clustering:jar:2.7.3</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.codehaus.jettison:jettison:jar:1.3.3</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.codehaus.jettison:jettison:jar:1.3.3/stax:stax-api:jar:1.0.1</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-cxf:pom:2.5/org.ow2.asm:asm:jar:5.0.4</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-spring:pom:2.5</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-spring:pom:2.5/org.springframework:spring-aop:jar:3.2.16.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-spring:pom:2.5/org.springframework:spring-aop:jar:3.2.16.RELEASE/aopalliance:aopalliance:jar:1.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-spring:pom:2.5/org.springframework:spring-expression:jar:3.2.16.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-spring:pom:2.5/org.springframework:spring-context:jar:3.2.16.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-spring:pom:2.5/org.springframework:spring-context-support:jar:3.2.16.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-spring:pom:2.5/org.springframework:spring-jms:jar:3.2.16.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-spring:pom:2.5/org.springframework:spring-oxm:jar:3.2.16.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-spring:pom:2.5/org.aspectj:com.springsource.org.aspectj.runtime:jar:1.7.1.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-spring:pom:2.5/org.aspectj:com.springsource.org.aspectj.weaver:jar:1.7.1.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-spring:pom:2.5/net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.1.3</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-springweb:pom:2.5</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-springweb:pom:2.5/org.springframework:spring-web:jar:3.2.16.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-springweb:pom:2.5/org.springframework:spring-webmvc:jar:3.2.16.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-springweb:pom:2.5/org.springframework:spring-webmvc-portlet:jar:3.2.16.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-jpa2.1:pom:2.6.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-jpa2.1:pom:2.6.0/org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.0.Final</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-jpa2.1:pom:2.6.0/org.hibernate:hibernate-jpamodelgen:jar:1.2.0.Final</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-logging:pom:2.5</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-logging:pom:2.5/org.slf4j:slf4j-log4j12:jar:1.7.2</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/com.ab.ah.scad.dependency:dependency-logging:pom:2.5/org.slf4j:slf4j-log4j12:jar:1.7.2/log4j:log4j:jar:1.2.17</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/commons-beanutils:commons-beanutils:jar:1.8.3</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/commons-collections:commons-collections:jar:3.2.1</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/org.javassist:javassist:jar:3.16.1-GA</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/javax.validation:validation-api:jar:1.0.0.GA</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/net.sf.dozer:dozer:jar:5.3.2</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/net.sf.dozer:dozer:jar:5.3.2/commons-lang:commons-lang:jar:2.5</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/org.hibernate:hibernate-validator-annotation-processor:jar:4.3.1.Final</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/joda-time:joda-time:jar:2.7</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:4.9-20170504.144553-6/org.json:json:jar:20090211</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.ab.ah.scad.acl:acl-api:jar:sources:4.9-20170504.144553-6</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/org.hibernate:hibernate-validator:jar:4.1.0.Final</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/org.hibernate:hibernate-validator:jar:4.1.0.Final/org.slf4j:slf4j-api:jar:1.5.6</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/org.hibernate:hibernate-validator:jar:sources:4.1.0.Final</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.google.gwt.eventbinder:eventbinder:jar:1.0.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.google.gwt.eventbinder:eventbinder:jar:1.0.0/com.google.gwt:gwt-user:jar:2.5.1</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.google.gwt.eventbinder:eventbinder:jar:1.0.0/com.google.gwt:gwt-user:jar:2.5.1/javax.validation:validation-api:jar:sources:1.0.0.GA</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:2.5-20170505.092042-15/com.google.gwt:gwt-servlet:jar:2.5.1</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-client:jar:sources:2.5-20170505.092042-15</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-server:jar:2.5-20170505.092130-13</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-server:jar:2.5-20170505.092130-13/commons-logging:commons-logging:jar:1.1.1</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-server:jar:2.5-20170505.092130-13/org.apache.httpcomponents:httpclient:jar:4.2.5</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-server:jar:2.5-20170505.092130-13/org.apache.httpcomponents:httpclient:jar:4.2.5/org.apache.httpcomponents:httpcore:jar:4.2.4</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-server:jar:2.5-20170505.092130-13/org.apache.httpcomponents:httpclient:jar:4.2.5/commons-codec:commons-codec:jar:1.6</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-server:jar:2.5-20170505.092130-13/org.springframework:spring-beans:jar:3.2.16.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-server:jar:2.5-20170505.092130-13/org.springframework:spring-beans:jar:3.2.16.RELEASE/org.springframework:spring-core:jar:3.2.16.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-server:jar:2.5-20170505.092130-13/org.springframework:spring-orm:jar:3.2.16.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-server:jar:2.5-20170505.092130-13/org.springframework:spring-orm:jar:3.2.16.RELEASE/org.springframework:spring-jdbc:jar:3.2.16.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-server:jar:2.5-20170505.092130-13/org.springframework:spring-orm:jar:3.2.16.RELEASE/org.springframework:spring-tx:jar:3.2.16.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-server:jar:2.5-20170505.092130-13/com.ab.ah.scad:reportingfacade-service-api:jar:1.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-server:jar:2.5-20170505.092130-13/com.ab.ah.scad:reportingfacade-service-api:jar:1.0/com.ab.ah.scad:reportingfacade-model:jar:1.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-server:jar:2.5-20170505.092130-13/com.ab.ah.scad:reportingfacade-service-api:jar:1.0/com.ab.ah.scad.reporting:reporting-api:jar:2.2</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-server:jar:2.5-20170505.092130-13/com.ab.ah.scad:reportingfacade-service-api:jar:1.0/org.junit:com.springsource.org.junit:jar:4.11.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-server:jar:sources:2.5-20170505.092130-13</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-service-api:jar:4.0.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-service-api:jar:4.0.0/com.ab.ah.leo.security:security-entity-model:jar:4.0.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-service-impl:jar:4.0.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-service-impl:jar:4.0.0/com.ab.ah.leo.security:security-repository-api:jar:4.0.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-service-impl:jar:4.0.0/com.ab.ah.leo.security:security-repository-api:jar:4.0.0/com.ab.ah.leo.security:security-model:jar:4.0.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-service-impl:jar:4.0.0/com.ab.ah.leo.security:security-repository-jpa:jar:4.0.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-service-impl:jar:4.0.0/com.ab.ah.leo.security:security-config:jar:4.0.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-service-impl:jar:4.0.0/com.ab.oneleo.encryptionutil:encryptionutil-core:jar:1.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-service-impl:jar:4.0.0/com.ab.oneleo.encryptionutil:encryptionutil-core:jar:1.0/org.bouncycastle:bcprov-jdk15on:jar:1.50</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-service-impl:jar:4.0.0/com.ab.ah.leo.security:security-metadata-model:jar:4.0.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-service-impl:jar:4.0.0/com.ab.ah.leo.security:security-systemuser-model:jar:4.0.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-service-impl:jar:4.0.0/com.ab.ah.scad.scad-util:scad-util-impl:jar:1.4</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-service-impl:jar:4.0.0/com.ab.ah.scad.scad-util:scad-util-impl:jar:1.4/net.sourceforge.stripes:stripes:jar:1.5</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-service-impl:jar:4.0.0/com.ab.ah.scad.scad-util:scad-util-api:jar:1.4</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-service-impl:jar:4.0.0/org.springframework.security:spring-security-ldap:jar:3.2.9.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-service-impl:jar:4.0.0/org.springframework.security:spring-security-ldap:jar:3.2.9.RELEASE/org.springframework.ldap:spring-ldap-core:jar:1.3.2.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-service-impl:jar:4.0.0/org.springframework.security:spring-security-ldap:jar:3.2.9.RELEASE/org.springframework.security:spring-security-core:jar:3.2.9.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-entity-model:jar:sources:4.0.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-entity-model:jar:sources:4.0.0/com.ab.ah.scad.dependency:dependency-springsecurity:pom:2.5</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-entity-model:jar:sources:4.0.0/com.ab.ah.scad.dependency:dependency-springsecurity:pom:2.5/org.springframework.security:spring-security-taglibs:jar:3.2.9.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-entity-model:jar:sources:4.0.0/com.ab.ah.scad.dependency:dependency-springsecurity:pom:2.5/org.springframework.security:spring-security-web:jar:3.2.9.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-entity-model:jar:sources:4.0.0/com.ab.ah.scad.dependency:dependency-springsecurity:pom:2.5/org.springframework.security:spring-security-config:jar:3.2.9.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:2.5-20170505.091954-15/com.ab.ah.leo.security:security-entity-model:jar:sources:4.0.0/com.ab.ah.scad.dependency:dependency-springsecurity:pom:2.5/org.springframework.security:spring-security-acl:jar:3.2.9.RELEASE</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-api-shared:jar:sources:2.5-20170505.091954-15</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-layout:jar:2.5-20170505.092112-15</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-layout:jar:2.5-20170505.092112-15/gwt-slider-bar:gwt-slider-bar:jar:1.0</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-layout:jar:sources:2.5-20170505.092112-15</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-supersource:jar:2.5-20170505.092144-13</node>
-            <node x="" y="">com.ab.oneleo.uiscommon:uiscommon-gwt-supersource:jar:sources:2.5-20170505.092144-13</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="256.0" y="4110.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/ab/oneleo/uiscommon/uiscommon-gwt-api-server/2.5-SNAPSHOT/uiscommon-gwt-api-server-2.5-20170505.092130-13.jar!/spring/single-module-security.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/gwt/gwt-user/2.5.1/gwt-user-2.5.1.jar!/com/google/gwt/user/Popup.gwt.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.30333334">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6694045">
+          <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/Demo-endpoints.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/gwt/gwt-user/2.5.1/gwt-user-2.5.1.jar!/com/google/gwt/user/User.gwt.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.5">
-          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-          <folding />
+        <state vertical-scroll-proportion="0.30184805">
+          <caret line="48" column="46" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/Demo-spring-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.653847">
-          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.230769">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.2.16.RELEASE/spring-web-3.2.16.RELEASE.jar!/org/springframework/web/filter/DelegatingFilterProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.148148">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/Demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44544432">
-          <caret line="26" column="75" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13805105">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="4" selection-end-line="33" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/login.css">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/Confluence.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/jquery/jquery-1.9.1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.5928009">
-          <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4100877">
-          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/gwt/gwt-user/2.5.1/gwt-user-2.5.1-sources.jar!/com/google/gwt/user/client/ui/TextBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57995737">
-          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/gwt/gwt-user/2.5.1/gwt-user-2.5.1-sources.jar!/com/google/gwt/core/client/GWT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3251599">
-          <caret line="79" column="22" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
-          <folding>
-            <marker date="1494597898129" expanded="true" signature="9879:9909" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/com/ab/platform/training/course/Demo.gwt.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.615385">
-          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/DemoDev.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1274#1615#0" expanded="true" />
-            <element signature="e#1614#1615#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SampleView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/com/ab/platform/training/course/client/i18n/Messages.properties">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05811966">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/confluence/ConfluencePlace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1118421">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SamplePlace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1118421">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/ab/platform/training/course/DemoDev.gwt.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SampleActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-          <folding />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/confluence/ConfluencePresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/gwt/gwt-user/2.5.1/gwt-user-2.5.1-sources.jar!/com/google/gwt/activity/shared/AbstractActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/demo1/client/InterModuleComunication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/demo1/client/ui/mainactivity/MainActivityView.ui.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.375">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/demo1/client/ui/mainactivity/MainActivityViewPresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27755103">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/demo1/client/ui/mainactivity/MainActivityView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5964912">
+          <caret line="135" column="34" selection-start-line="135" selection-start-column="34" selection-end-line="135" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/demo1/client/ActivityMapperWithClientFactoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39766082">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/demo1/client/ViewAsyncFactoryimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39766082">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/demo1/client/DemoDesktop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3177388">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4090#4091#0" expanded="false" />
+            <element signature="e#4133#4134#0" expanded="false" />
+            <element signature="e#4198#4199#0" expanded="false" />
+            <element signature="e#4256#4257#0" expanded="false" />
+            <marker date="1494941939624" expanded="true" signature="4320:4569" placeholder="{...}" />
+            <marker date="1494941939624" expanded="true" signature="4379:4565" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/Demo1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/demo1/Demo1.gwt.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20944558">
+          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/confluence/ConfluenceActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09289618">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/Demo1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45942983">
+          <caret line="26" column="75" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/i18n/Messages.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/ab/platform/training/course/Demo.gwt.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="50" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/DoSomethingServiceClientAsync.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/Demo-spring-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/DoSomethingServiceClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.2.16.RELEASE/spring-web-3.2.16.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.2.16.RELEASE/spring-web-3.2.16.RELEASE-sources.jar!/org/springframework/web/context/ContextLoaderListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="67" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/confluence/ConfluenceView.ui.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3068592">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/confluence/ConfluenceView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43965518">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/server/DoSomethingServiceClientImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1973466">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#294#295#0" expanded="false" />
+            <element signature="e#322#323#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/Demo-endpoints.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15454546">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.030909091">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/confluence/ConfluenceEntryPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10613599">
+          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/gwt/gwt-user/2.5.1/gwt-user-2.5.1.jar!/com/google/gwt/uibinder/resources/com.google.gwt.user.client.ui.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/ab/platform/training/course/Confluence.gwt.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20666666">
+          <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/Confluence.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31166667">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/Demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.028333334">
+          <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5466667">
+          <caret line="55" column="35" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SampleView.ui.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.576923">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        <state vertical-scroll-proportion="0.31166667">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SampleView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5654952">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1621#1777#0" expanded="false" />
+            <element signature="e#1776#1777#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0686901">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ab/platform/training/course/client/ui/sample/SampleActivity.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13333334">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state vertical-scroll-proportion="1.2683333">
+          <caret line="105" column="31" selection-start-line="105" selection-start-column="31" selection-end-line="105" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.255">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -1654,7 +1273,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.16390584" />
               </list>
             </option>
           </splitter-proportions>
@@ -1662,7 +1281,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>GWT|PLT-9548</last-edited>
+          <last-edited>PLT-9548</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1701,6 +1320,7 @@
   <component name="mavenExecuteGoalHistory">
     <option value="$PROJECT_DIR$" />
     <option value="clean install" />
+    <option value="clean" />
     <option value="install" />
   </component>
 </project>

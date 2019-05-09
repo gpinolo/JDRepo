@@ -1,0 +1,25 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+             xmlns:g="urn:import:com.google.gwt.user.client.ui" xmlns:b="urn:import:com.github.gwtbootstrap.client.ui">
+
+    <ui:style field="res">
+        .mainViewBody {
+            -moz-box-sizing: border-box;
+            padding: 5px 15px;
+        }
+
+    </ui:style>
+    <g:HTMLPanel>
+        <g:HTMLTable>
+
+        </g:HTMLTable>
+        <!--<g:FluidRow addStyleNames="{res.mainViewBody}">
+            <g:Column size="12">
+                <g:TextBox ui:field="nameField" text="ciccio"/>
+            </g:Column>
+        </g:FluidRow>-->
+
+        <b:FluidRow></b:FluidRow>
+
+    </g:HTMLPanel>
+</ui:UiBinder>
